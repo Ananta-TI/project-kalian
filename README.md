@@ -6040,3 +6040,21 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+8. https://ananta-ti.vercel.app/
+Selamat pagi Pak Dhika!
+Perkenalkan nama saya Ananta Firdaus, pada kesempatan kali ini saya ingin menunjukkan projek personal website saya.
+Website ini saya buat sebagai wadah untuk menampilkan portofolio, pengalaman proyek, dan skill saya di bidang teknologi, khususnya frontend development.
+
+🛠 Tech Stack:
+JavaScript
+React.js
+Tailwind CSS
+
+✨ Penjelasan singkat projek:
+Website ini memiliki desain dark mode futuristik dan responsif.
+Strukturnya terdiri dari beberapa komponen utama seperti Header, Footer, dan section portofolio. Pengunjung dapat melihat daftar pengalaman, proyek, serta keahlian saya secara interaktif dan terorganisir.
+Kedepannya, saya berencana untuk menambahkan fitur-fitur seperti blog pribadi, animasi interaktif, dan dashboard mini project agar website ini terus berkembang.
+
+📎 Website: https://ananta-ti.vercel.app/
+💻 GitHub: https://github.com/Ananta-TI
